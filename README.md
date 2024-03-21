@@ -1,5 +1,5 @@
 # Weather practice project
-#Instructions
+#Instructions - This is a simple weather project. I used Visual Studio, I just switched to using Linux and VSCode for other projects.
 1. Download all the files.
 2. Extract them all in the same folder.
 3. Open the HTML and CSS files using visual studio.
